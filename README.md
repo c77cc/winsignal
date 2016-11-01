@@ -1,5 +1,7 @@
 # Windows Signal For Go
 
+[![Build Status](https://drone.io/github.com/c77cc/winsignal/status.png)](https://drone.io/github.com/c77cc/winsignal/latest)
+
 In the windows platform, your golang program can use **winsignal** to wait another process send signal.
 
 
