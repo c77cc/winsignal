@@ -3,7 +3,7 @@ package winsignal
 //import (
 //    "flag"
 //    "log"
-//    "360.cn/armory/winsignal"
+//    "github.com/c77cc/winsignal"
 //)
 //
 //func ExampleWait() {
